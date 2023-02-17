@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeetjyoti-Deka
-- 👀 I’m interested in web development and machine learning and other stuff
-- 🌱 I’m currently learning java, DSA etc
+- 😎 I am a software developer
+- 👀 I’m interested in web development
 - 💞️ I’m looking to just explore for now
 - 📫 To reach me, you can mail me at jeetjyoti2020@gmail.com
 
